@@ -1,0 +1,4 @@
+Add your real resume PDF here and rename it to:
+public/resume.pdf
+
+The Resume button is already configured to open /resume.pdf.
